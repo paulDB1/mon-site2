@@ -1,0 +1,184 @@
+POLITIQUE COOKIES
+
+La présente « Politique Cookies » a pour but de vous informer et de répondre aux exigences posées par la loi dite « Informatique et libertés » modifiée et le Règlement général sur la protection des données personnelles quant à l’utilisation de cookies par PETIT BATEAU.
+
+
+1. QU’EST-CE QUE LA POLITIQUE COOKIES ET QUELLE EST SA PORTÉE ?
+Vous êtes informés que, lors de vos visites sur les sites web et autres espaces numériques de PETIT BATEAU, des cookies peuvent être installés sur votre équipement (informatique, tablette ou smartphone). De même, nous pouvons utiliser des cookies sur les courriers électroniques qui vous sont adressés ou lors de l’installation d’une application mobile.
+
+La Politique Cookies vous présente les éléments essentiels relatifs à la manière dont nous utilisons les cookies et dans quel but. Celle-ci nous permet également de préciser vos droits.
+
+Elle est applicable du seul fait de sa publication sur notre site web www.petit-bateau.fr. La dernière version en ligne prévaut sur toutes les autres.
+
+Elle ne se substitue pas à la politique de protection des données accessible ici.
+
+
+2. QU’EST-CE QU’UN COOKIE ?
+Un « cookie » ou « témoin de connexion » permet toute action tendant à accéder, par voie de transmission électronique, à des informations déjà stockées dans son équipement terminal de communications électroniques, ou à inscrire des informations dans cet équipement.
+
+
+En pratique les cookies sont utilisés dans différents environnements : site web, courrier électronique, téléchargement d’un logiciel ou d’une application mobile, etc…
+
+
+Un cookie est un petit fichier texte (fichier informatique) enregistré, et/ou lu par votre navigateur, sur le disque dur de votre terminal (ordinateur fixe ou portable, tablette mais aussi smartphone) lorsque vous visitez un site internet ou tout autre espace numérique de PETIT BATEAU.
+
+
+Sur un plan technique et fonctionnel, il est distingué quatre types de cookies :
+
+Les cookies d’usage technique, cookies qui répondent à une action de votre part sur le site web, nécessaire à l’utilisation de tel ou tel service ou d’accéder à tel ou tel contenu.
+
+Les cookies d’identification et de personnalisation, cookies qui nous permettent de mieux vous connaitre et de vous identifier lorsque vous revenez sur notre site.
+
+Les cookies d’analyse et de performance, cookies qui nous permettent de procéder à diverses mesures : nombre de visiteurs, pages visitées.
+
+Les cookies publicitaires ou de ciblage, cookies qui enregistrent des données qui permettent de contrôler l’affichage de publicités à l’égard de tel ou tel internaute.
+
+
+Sur le plan technique, il existe une grande variété de cookies tels que (liste non exhaustive) :
+
+- Cookies HTTP ;
+
+- Cookies « flash » ;
+
+- Le résultat du calcul d’empreinte dans le cas du « fingerprinting » (calcul d’un identifiant unique de la machine basée sur des éléments de sa configuration à des fins de traçage) ;
+
+- Des pixels invisibles ou « web bugs » ;
+
+- ….
+
+3. À QUOI SERT UN COOKIE ?
+Les cookies visent principalement à remplir trois fonctions :
+
+
+Fonction 1 - Le bon fonctionnement du ou des services :
+
+
+- A travers l’étude de statistiques techniques permettant de contrôler le bon fonctionnement du service ;
+
+- A travers l’identification de messages d’erreur permettant de remédier à tout problème technique ;
+
+- En assurant la sécurité du compte utilisateur (nouvelle authentification après un certain laps de temps).
+
+
+Fonction 2 - L’amélioration de l’expérience PETIT BATEAU :
+
+
+- Notamment en améliorant la qualité et la rapidité de l’expérience utilisateur, par exemple en proposant un pré-remplissage de champs à chaque visite ;
+
+- En optimisant l’ergonomie de l’environnement numérique concerné ou les différentes fonctionnalités proposées ;
+
+- En paramétrant l’utilisation de cet environnement en fonction de son utilisateur pour l’adapter à ses préférences, comme par exemple en mémorisant la langue par défaut utilisée ;
+
+- En étudiant les statistiques fournies à l’aide de ces cookies pour continuer d’améliorer et d’adapter le service à chaque utilisateur pour garantir sa meilleure expérience.
+
+
+Fonction 3 - Fonction économique
+
+
+- En adressant des publicités personnalisées grâce aux recherches effectuées par l’utilisateur. A ce titre, les cookies déposés permettent à la fois de cibler l’utilisateur pour lui proposer une publicité qui lui correspond et qui serait susceptible de l’intéresser (en fonction des données de localisation, si celles-ci sont activées ou en fonction des données personnelles qui ont été antérieurement fournies). Ils permettent également de réaliser des statistiques, des études autour des publicités proposées ;
+
+- Les cookies permettent enfin d’étudier et de relever l’activité issue de cet environnement numérique : nombre de connexions journalières, profils connectés, tranches horaires les plus fréquentées, etc…
+
+
+4. QUELS TYPES DE DONNÉES RECUEILLONS-NOUS ?
+Il y a beaucoup de contre-vérités autour des cookies.
+
+
+Les cookies ne sont pas des « mouchards » qui nous permettent de recueillir des informations en masse ou des informations critiques ou relatives à votre vie personnelle ou encore d’accéder à des secrets d’entreprise.
+
+
+Les cookies nous permettent par exemple de recueillir :
+
+- Adresse IP ;
+
+- ID utilisateur ;
+
+- ID de session ;
+
+- Langue d’usage de l’internaute (et non sa langue maternelle) ;
+
+- Données de géolocalisation (dans certains cas).
+
+
+5. QUI A ACCÈS A CES DONNÉES ?
+L’accès aux données recueillies par l’entreprise grâce aux cookies est limité :
+
+
+DESTINATAIRES INTERNES	
+Direction de la communication/marketing
+
+
+Direction des systèmes d’information
+
+
+Direction générale
+
+
+Autres directions métiers en tant que de besoin
+
+DESTINATAIRES EXTERNES	
+Annonceurs et/ou régies publicitaires
+
+
+Entreprises spécialisées dans la publicité sous forme électronique
+
+
+Prestataires techniques
+
+
+
+6. QUELS SONT MES DROITS ?
+L’article 32 II de la loi Informatique et libertés du 6 janvier 1978 prévoit :
+
+
+« Tout abonné ou utilisateur d'un service de communications électroniques doit être informé de manière claire et complète, sauf s'il l'a été au préalable, par le responsable du traitement ou son représentant :
+
+
+• de la finalité de toute action tendant à accéder, par voie de transmission électronique, à des informations déjà stockées dans son équipement terminal de communications électroniques, ou à inscrire des informations dans cet équipement ;
+
+• des moyens dont il dispose pour s'y opposer.
+
+
+Ces accès ou inscriptions ne peuvent avoir lieu qu'à condition que l'abonné ou la personne utilisatrice ait exprimé, après avoir reçu cette information, son accord qui peut résulter de paramètres appropriés de son dispositif de connexion ou de tout autre dispositif placé sous son contrôle.
+
+Ces dispositions ne sont pas applicables si l'accès aux informations stockées dans l'équipement terminal de l'utilisateur ou l'inscription d'informations dans l'équipement terminal de l'utilisateur :
+
+
+• soit a pour finalité exclusive de permettre ou faciliter la communication par voie électronique ;
+
+• soit est strictement nécessaire à la fourniture d'un service de communication en ligne à la demande expresse de l'utilisateur. »
+
+
+En résumé vous disposez de deux droits :
+
+- De consentir à l’utilisation, selon les cookies utilisés ;
+
+- Le droit de désactiver toute ou partie des cookies.
+
+
+7. LE CONSENTEMENT
+Le consentement de l’utilisateur n’est pas nécessaire pour les cookies dits « essentiels », c’est-à-dire lorsqu’ils sont nécessaires au bon fonctionnement de l’environnement numérique (ce sont les cookies d’usage technique).
+
+
+A l’inverse, le consentement est nécessaire pour les cookies :
+
+- Liés aux opérations de publicité ciblée ;
+
+- Liés aux opérations de mesure d’audience ;
+
+- Générés par les boutons de partage redirigeant vers les différents réseaux sociaux.
+
+
+Le consentement est donc requis pour tout cookie permettant d’étudier le comportement de l’utilisateur.
+
+
+La Politique Cookies est un document de nature informationnelle. Elle n’a donc pas besoin d’être acceptée, il vous appartient d’en prendre connaissance. A l’inverse, vous devez consentir à l’usage de certains cookies.
+
+
+Ce consentement est formalisé, comme la CNIL l’impose par :
+
+- un bandeau d’information ;
+
+- un bouton d’acceptation sur ledit bandeau ;
+
+- la possibilité de cliquer sur le lien qui vous permet de prendre connaissance de l’intégralité de la présente politique.

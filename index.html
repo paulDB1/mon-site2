@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=1,shrink-to-fit=no">
+    <link type="text/css" rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Arimo&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&family=Open+Sans:ital,wght@0,300;1,700&display=swap" rel="stylesheet">
+    <script
+  src="http://code.jquery.com/jquery-3.5.1.slim.min.js"
+  integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+  crossorigin="anonymous"></script>
+    <link href="normalize.css" rel="style.css"/>
+    <script src="fetch.js"/></script>
+    <title>essai</title>
+</head>
+<body>
+      <!--AJAX HTMLREQUEST-->
+      <div id="demo1">
+        <button type="button" onclick="loadDoc()">informations cookies</button>
+        </div>
+        <script>
+        function loadDoc() {
+          var xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+              document.getElementById("demo1").innerHTML =
+              this.responseText;
+            }
+          };
+          xhttp.open("GET", "ajax1.txt", true);
+          xhttp.send();
+        }
+        </script>
+        <!--AJAX HTMLREQUEST-->
+      <!--exemples similaires 3 fois sur projet1-->
+  <!-- The sidebar -->
+  <div class="container">
+  <div class="sidebar">
+    <a class="active" href="#home">Home</a>
+    <a href="news.php">News</a>
+    <a href="contact.php">Contact</a>
+    <a href="about.php">About</a>
+  </div>
+
+  <!-- Page contenu -->
+  <div class="content">
+  <div class="titrehome">A C C U E I L</h3>
+  <img src="castle-5638140_1280.jpg" alt="" width="280" height="280" ></img>
+  </div>
+  <p style="font-family: 'Arimo', sans-serif;"><br>
+    <br>
+    ''Ce domaine, vue mer et en plein centre-ville, est un endroit luxueux et discret, où j'aime me ressourcer entre deux tournages''
+    <br>
+    <br>
+    Citation d'un acteur oscarisé français ayant souhaité rester anonyme 
+  </p>
+  </div>
+  </div>
+  Tous droits réservés - 2020
+</body>
+                </html>
+
